@@ -1,7 +1,5 @@
 
-Implementations for Ta Duy Nguyen & Alina Ene:
-
-**Multiplicative Weights Update, Area Convexity and Random Coordinate Descent for Densest Subgraph Problems**
+Implementations for Ta Duy Nguyen & Alina Ene: **Multiplicative Weights Update, Area Convexity and Random Coordinate Descent for Densest Subgraph Problems**
 
 Codebase is credited to Harb, Quanrud, Chekuri (NeurIPS 2022): **Faster and Scalable Algorithms for Densest Subgraph and Decomposition**
 
